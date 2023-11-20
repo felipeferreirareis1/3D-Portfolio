@@ -16,8 +16,9 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    etec,
     tesla,
+    ifsp,
     shopify,
     carrent,
     jobit,
@@ -32,7 +33,7 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Education",
     },
     {
       id: "contact",
@@ -116,11 +117,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      title: "Development of Systems",
+      company_name: "ETEC Fernando Prestes",
+      icon: etec,
+      iconBg: "#E6DEDD",
+      date: "Feb 2019 - Dec 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -131,8 +132,8 @@ import {
     {
       title: "React Native Developer",
       company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
+      icon: ifsp,
+      iconBg: "#383E56",
       date: "Jan 2021 - Feb 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -145,7 +146,7 @@ import {
       title: "Web Developer",
       company_name: "Shopify",
       icon: shopify,
-      iconBg: "#383E56",
+      iconBg: "#E6DEDD",
       date: "Jan 2022 - Jan 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -158,7 +159,7 @@ import {
       title: "Full stack Developer",
       company_name: "Meta",
       icon: meta,
-      iconBg: "#E6DEDD",
+      iconBg: "#383E56",
       date: "Jan 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
