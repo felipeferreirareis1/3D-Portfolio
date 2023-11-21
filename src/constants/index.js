@@ -21,6 +21,7 @@ import {
     ifsp,
     shopify,
     carrent,
+    gessica,
     jobit,
     tripguide,
     threejs,
@@ -130,11 +131,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Engineering of Control & Auto",
+      company_name: "IFSP",
       icon: ifsp,
       iconBg: "#383E56",
-      date: "Jan 2021 - Feb 2022",
+      date: "Mar 2022 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,24 +144,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Renewable Energy Electrician",
+      company_name: "IFSP",
+      icon: ifsp,
       iconBg: "#E6DEDD",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#383E56",
-      date: "Jan 2023 - Present",
+      date: "Jul 2023 - Oct 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -199,25 +187,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Website Personal Driver",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Easily navigate and book our top-notch private chauffeur services online. Enjoy the convenience of elegant design, user-friendly navigation, and a hassle-free booking system.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: gessica,
+      source_code_link: "https://github.com/felipeferreirareis1/Site-Gessica-Online",
     },
     {
       name: "Job IT",

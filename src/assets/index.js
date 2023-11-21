@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo1.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 import etec from "./company/etec.png";
 import ifsp from "./company/ifsp.png";
 
+import gessica from "./gessicaSite.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -58,6 +59,7 @@ export {
   etec,
   ifsp,
   shopify,
+  gessica,
   starbucks,
   tesla,
   carrent,
