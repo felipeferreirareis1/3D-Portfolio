@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png"
+import php from "./tech/php.png"
+import photoshop from "./tech/photoshop.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -53,6 +56,9 @@ export {
   reactjs,
   redux,
   tailwind,
+  photoshop,
+  python,
+  php,
   typescript,
   threejs,
   meta,

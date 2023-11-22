@@ -8,19 +8,16 @@ import {
     html,
     css,
     reactjs,
-    redux,
     tailwind,
+    photoshop,
+    php,
+    python,
     nodejs,
     mongodb,
     git,
-    figma,
     docker,
-    meta,
     etec,
-    tesla,
     ifsp,
-    shopify,
-    carrent,
     gessica,
     jobit,
     tripguide,
@@ -83,8 +80,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Python",
+      icon: python,
     },
     {
       name: "Tailwind CSS",
@@ -107,12 +104,16 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "photoshop",
+      icon: photoshop,
     },
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "php",
+      icon: php,
     },
   ];
   
@@ -124,10 +125,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Feb 2019 - Dec 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Having completed a technical course in systems development, I bring expertise in React.js and related technologies.",
+        "Experienced in cross-functional collaboration, I contribute to creating high-quality web applications with responsive design and cross-browser compatibility.",
+        "I actively participate in code reviews, providing constructive feedback to maintain code quality.",
+        "Eager to apply my skills and contribute effectively to web development projects.",
       ],
     },
     {
@@ -137,10 +138,10 @@ import {
       iconBg: "#383E56",
       date: "Mar 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Graduating with a bachelor's degree in Control and Automation Engineering, I possess comprehensive skills in diverse technologies. ",
+        "Experienced in collaborative projects, I contribute to creating sophisticated solutions for control systems.",
+        "Proficient in implementing responsive design and ensuring cross-browser compatibility, I bring a strong foundation in engineering principles to web application development.",
+        "Actively engaging in code reviews, I provide constructive feedback to maintain code quality.",
       ],
     },
     {
@@ -150,10 +151,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jul 2023 - Oct 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Having completed a course in Renewable Energy Electrician, I bring specialized skills to the field.",
+        "Proficient in the installation and maintenance of renewable energy systems, I am well-versed in harnessing sustainable power sources.",
+        "My expertise includes implementing responsive design and ensuring cross-browser compatibility in web applications.",
+        "Actively engaging in code reviews, I provide constructive feedback to uphold code quality standards.",
       ],
     },
   ];
