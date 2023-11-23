@@ -53,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Engineering Student",
     icon: creator,
   },
 ];
@@ -190,15 +190,15 @@ const projects = [
       "Easily navigate and book our top-notch private chauffeur services online. Enjoy the convenience of elegant design, user-friendly navigation, and a hassle-free booking system.",
     tags: [
       {
-        name: "HTML",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "JavaScript",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
@@ -206,7 +206,7 @@ const projects = [
     source_code_link: "https://github.com/felipeferreirareis1/Site-Gessica-Online",
   },
   {
-    name: "Job IT",
+    name: "Work Portfolio",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
