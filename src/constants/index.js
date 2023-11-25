@@ -21,6 +21,7 @@ import {
   gessica,
   jobit,
   tripguide,
+  work,
   threejs,
 } from "../assets";
 
@@ -208,14 +209,14 @@ const projects = [
   {
     name: "Work Portfolio",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Discover my freelance services effortlessly on my sleek website. Enjoy user-friendly navigation and a hassle-free booking system for a seamless experience.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "framer motion",
         color: "green-text-gradient",
       },
       {
@@ -223,8 +224,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: work,
+    source_code_link: "https://github.com/felipeferreirareis1/Work-Portfolio",
   },
   {
     name: "Trip Guide",
